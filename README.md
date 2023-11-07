@@ -1,7 +1,7 @@
 # se-elpriser-prediktion
 Initialt är syftet med detta repository att samla in kunskaper kring hur elpriset i Sverige påverkas av omvärld och beslut.
 
-Typ av data, kunskaper är vilka faktorer i omvárlden som påvrerkar oss, vilka länkar till realtidsdata som finns, på vilket sätt det p[verkar oss osv.
+Den typ av data eller kunskaper som initialt samlas in är vilka faktorer i omvärlden som påverkar oss, vilka länkar till realtidsdata som finns, på vilket sätt det påverkar oss osv.
 
 Diskussioner förs med fördel i BEKEN inägg på LinkedIn
 
